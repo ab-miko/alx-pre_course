@@ -1,1 +1,1 @@
-My first readme
+Create a new directory 0x01-git
